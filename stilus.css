@@ -1,0 +1,54 @@
+body{
+	background-image: url('hatterem3.jpg');
+	font-family:verdana;
+	color: #272f32;
+	font-size: 10pt;
+}
+
+#tartalom{
+	width:80%;
+	max-width:600px;
+	background-color: white;
+	margin:auto;/* oldal közepére helyezi  */
+	padding: 10pt;
+	text-align:justify;
+}
+
+.card {
+	border: 2px solid gray;
+	border-radius: 10px;
+	background-color: #8599a1;
+	padding: 10px;
+	margin: 10px 0;
+
+}
+.torles{
+	clear:both;/* úsztatás megszüntetése */
+}
+
+ img{
+	width:50%;
+	float:left; /* úsztatás */
+	margin: 10pt;
+	padding: 2pt;
+	border: 1pt solid grey;
+	margin-top: 0;
+}
+
+#menu a {
+	color:pink;
+	text-decoration:none
+}
+
+
+
+h1{
+	font-size:20pt;
+	font-family:"Showcard Gothic";
+	font-variant:uppercase;
+	letter-spacing: 4pt;
+}
+h2{
+	font-family:"Showcard Gothic";
+	letter-spacing: 1pt;
+}
